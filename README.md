@@ -86,4 +86,4 @@ MIT License
 
 ## 👤 Author
 
-Built for Infosys Systems Engineer role demonstration
+Arya Sekhar
